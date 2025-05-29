@@ -1,0 +1,10 @@
+{
+  "name": "task_3_project",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^5.1.3"
+  }
+}
